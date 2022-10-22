@@ -4,7 +4,7 @@ on:
   push:
     branches:
       # We can define multiple branches as well      
-      - main
+      - master
   pull_request:
     branches:
       - main
